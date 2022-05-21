@@ -12,5 +12,10 @@ Neofetch
 </p>
 <pre>
 Small pink arch neofetch  
+  
+    
+      
+        
+        
 </pre>
 
