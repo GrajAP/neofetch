@@ -11,5 +11,5 @@ Neofetch
 Small pink arch neofetch  
 </pre>
   <p align="center">
-<img src="neofetch.png" />
+<img alt="" align="right" width="50%" src="neofetch.png" />
 </p>
