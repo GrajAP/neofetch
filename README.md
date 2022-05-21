@@ -1,6 +1,6 @@
 
  # Neofetch
-###Small pink arch neofetch  
+ ###Small pink arch neofetch  
 
   <p align="center">
 <img src="neofetch.png" />
