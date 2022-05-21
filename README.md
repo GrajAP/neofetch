@@ -2,5 +2,5 @@
  # neofetch
 Small pink arch neofetch  
  <p align="center">
- (neofetch.png?raw=true "Title") 
+<img src="neofetch.png" />
 </p>
