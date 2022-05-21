@@ -16,6 +16,6 @@ Small pink arch neofetch
     
       
         
-        
+        on windows xD
 </pre>
 
